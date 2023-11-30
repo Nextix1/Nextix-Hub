@@ -1,5 +1,1 @@
-game:GetService("StarterGui"):SetCore("SendNotification",{
-	Title = "NEXTIX HUB", -- Required
-	Text = "nextix working on big update please try again later", -- Required
-	Icon = "" -- Optional
-})
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Next1x/NextixHub/main/Loader"))()
